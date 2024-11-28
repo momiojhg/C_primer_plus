@@ -1,0 +1,24 @@
+1. C语言的基本模块是函数。
+2. 语法错误是违反组成语句或程序的规则。
+3. 语义错误是含义错误。
+4.
+include <stdio.h>
+
+int main(void) /*该程序打印一年有多少周*/
+{
+	int s;
+	s = 52;
+	printf("There are %d weeks in a year.\n", s);
+	return 0;
+}
+
+5. a. Baa Baa Black Sheep.Have you any wool?
+   b. Begone!
+      0 creature of lard!
+   c. What?
+      No/nfish?
+   d. 2 + 2 = 4
+6. 关键字是C的词汇。int char是关键字。function和=不是。
+7. printf("There were %d words and %d lines.\n", words, lines)
+8. line7:a=5,b=2; line8:a=5,b=5; line9:a=5,b=5.
+9. line7:x=10,y=5; line8:x=10,y=15; line9:x=150,y=15.
